@@ -21,7 +21,7 @@ This will give us access to the random numbers feature. Here are a few of the bu
 **random.randint(1, 100)** - This will return a random value between 1 and 100. We can change the low and high values.
 **random.choice(list)** - This will pick a random value from a list. We need to have a list pre-made.
 
-## DiceRoll.py
+## DiceRoll.py  
 Create a program that rolls a 6 sided dice.
 ---
 Extend that program so it rolls 2 dice and gives the total.
@@ -107,5 +107,5 @@ response = random.choice(answers)
 - What else could we do with random and looping?
 
 ### Other examples:
-https://repl.it/@JulieSunny/guessNumber#main.py
-https://repl.it/@JulieSunny/Hangman#main.py 
+https://repl.it/@JulieSunny/guessNumber#main.py  
+https://repl.it/@JulieSunny/Hangman#main.py
